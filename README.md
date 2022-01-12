@@ -7,4 +7,4 @@ Using this command to build scss to css:
 npm run gulp
 ```
 
-Use [commits](./commits) to refer to scss learning steps
+Use [commits](https://github.com/khanhduy1407/sass-tutorial/commits/) to refer to scss learning steps
